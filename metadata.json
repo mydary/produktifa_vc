@@ -1,0 +1,6 @@
+{
+  "name": "Produktifa",
+  "description": "Aplikasi manajemen proyek dan tugas yang terorganisir, cepat, dan mudah digunakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
